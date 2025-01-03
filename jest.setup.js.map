@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "jest.setup.js",
+  "sourceRoot": "",
+  "sources": [
+    "jest.setup.ts"
+  ],
+  "names": [],
+  "mappings": ";AAAA,MAAM,CAAC,OAAO,CAAC,GAAG,GAAG,IAAI,CAAC,EAAE,EAAE,CAAC"
+}

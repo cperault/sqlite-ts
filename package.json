@@ -1,0 +1,24 @@
+{
+  "name": "sqlite-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "jest --watch",
+    "dev": "ts-node app/main.ts"
+  },
+  "author": "Christopher Perault",
+  "license": "MIT",
+  "description": "A study and rewrite of the SQLite RDBMS engine using Node and Typescript",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.3",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "commander": "^13.0.0"
+  }
+}
